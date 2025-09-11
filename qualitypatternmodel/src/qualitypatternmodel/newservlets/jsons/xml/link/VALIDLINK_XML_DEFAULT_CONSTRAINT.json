@@ -17,6 +17,7 @@
             "params":[2],
             "exampleValue":"Birth Certificate Sources",
             "description":"property of interest,that should contain a valid link."
+			"plural":"true"
         },
         {"text":"are a valid link."},
         
